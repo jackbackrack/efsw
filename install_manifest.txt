@@ -1,0 +1,3 @@
+/usr/local/lib/libefsw.so
+/usr/local/include/efsw/efsw.h
+/usr/local/include/efsw/efsw.hpp
